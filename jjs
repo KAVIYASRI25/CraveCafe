@@ -1,0 +1,5 @@
+let string=("kavya")=>{
+    return string;
+};
+console.log(string.toUpperCase["kaviya"]);
+    
